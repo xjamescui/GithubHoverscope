@@ -1,0 +1,14 @@
+.qtip{
+	max-width: 60%;
+	max-height: 60%;
+}
+
+.qtip-content{
+	overflow: auto;
+}
+.qtip-default{
+	max-width: fill;
+	max-height:fill;
+	overflow: auto;
+}
+
